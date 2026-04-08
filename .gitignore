@@ -1,0 +1,11 @@
+﻿# Ignore dependency directories
+contacts-backend/node_modules/
+contacts-frontend/node_modules/
+node_modules/
+
+# Environment and build files
+.env
+.env.local
+.DS_Store
+/build
+/dist

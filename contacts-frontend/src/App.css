@@ -8,7 +8,7 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  a {
+  .App-link {
     animation: App-logo-spin infinite 20s linear;
   }
 }
